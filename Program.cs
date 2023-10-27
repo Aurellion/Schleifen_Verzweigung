@@ -72,12 +72,7 @@
             {
                 Console.WriteLine("Ungültige Auswahl");
             }
-
-
-
-            Console.ReadKey(); //Liest ein welche Taste als nächstes gedrückt wird
-
-            
+            Console.ReadKey(); //Liest ein welche Taste als nächstes gedrückt wird           
         }
     }
 }
